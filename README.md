@@ -34,3 +34,4 @@
 ## 📚 Projetos Atuais:
 - Aprofundar em Back-End
 - Criar software de desktop como experiência
+- Criar um blog

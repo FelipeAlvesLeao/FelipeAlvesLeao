@@ -20,8 +20,8 @@
 <h3 align="center"> 📈Estatísticas </h3>
 <div align="center">
   <a href="https://github.com/FelipeAlvesLeao/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipealvesleao&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvesleao&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipealvesleao&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipealvesleao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 💬 Fale Comigo Sobre:

@@ -29,7 +29,7 @@
 - Tecnologias do Futuro
 - Front-End
 - Universidade e o mercado para iniciantes
-- Hobbies: animação, mangá, jogos, podcasts
+- Hobbies: animação, livros, jogos, podcasts
 
 ## 📚 Projetos Atuais:
 - Aprofundar em Back-End
